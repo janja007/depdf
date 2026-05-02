@@ -40,7 +40,7 @@ py -m pip install pymupdf
    1. Drag and drop - Drag your PDF file and drop it onto depdf.py in Windows Explorer. Simple.
    2. Advanced - Terminal
    
-   
+   WINDOWS
    1. Open Terminal — press Win + R, type cmd, press Enter
 Navigate to your Downloads folder:
  ```
