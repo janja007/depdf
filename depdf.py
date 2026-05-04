@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-clean_pdf.py — Remove OceanofPDF hyperlinks, blank/ad pages, OceanofPDF
+depdf.py — Remove OceanofPDF hyperlinks, blank/ad pages, OceanofPDF
                text on pages, and OceanofPDF references from filename/metadata.
 
 Usage:
-    python clean_pdf.py input.pdf [output.pdf]
+    python depdf.py input.pdf [output.pdf]
 
 If output.pdf is omitted, the file is cleaned in place (overwritten).
 
